@@ -1,0 +1,9 @@
+/data/models/GoogleNews-vectors-negative300.bin.gz
+/data/processed/limit-all.json
+.idea
+/data/processed/limit-all-binary-arousal.json
+/data/processed/limit-all-binary-valence.json
+/data/processed/limit-80-per-cent.json
+/data/processed/limit-threshold-03.json
+/data/processed/limit-threshold-02.json
+/data/processed/limit-threshold-01.json

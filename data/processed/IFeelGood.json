@@ -1,0 +1,127 @@
+{
+  "_id": {
+    "$oid": "5714dec825ac0d8aee3bd26d"
+  },
+  "name": "Boney M.",
+  "lyrics": "What a beautiful morning<br>Just to wake up beside you<br>Is something I&apos;ve missed for so long<br>I&apos;m so glad that you came back home<br><br>Baby let me tell you<br>How my days slipped away<br>And how I was afraid of the night<br>But now I&apos;m alright<br><br>I feel good<br>Feeling like a lover should<br>What else can I say<br>Won&apos;t forget the day<br>You came back to stay<br>I feel so good (I feel good, I feel good, I feel good)<br>Finally we understood<br>You and me were meant<br>True lovers from the start<br>We can never part<br><br>Our love is grown stronger<br>More than any temptation<br>In this world could possibly be<br>There&apos;s no doubt &apos;cause it&apos;s plain to see<br><br>I feel good<br>Feeling like a lover should<br>What else can I say<br>Won&apos;t forget the day<br>You came back to stay<br>I feel so good (I feel good, I feel good, I feel good)<br>Finally we understood<br>You and me were meant<br>True lovers from the start<br>We can never part<br><br>I feel good<br>Feeling like a lover should<br>What else can I say<br>Won&apos;t forget the day<br>You came back to stay<br>I feel so good (I feel good, I feel good, I feel good)<br>Finally we understood<br>You and me...",
+  "isClassic": false,
+  "title": "I Feel Good",
+  "albumTitle": "Kalimba De Luna - 16 Happy Songs",
+  "isrc": "DED168600008",
+  "length": "82",
+  "explicitLyrics": false,
+  "bpm": "113",
+  "gain": "-19",
+  "language": "",
+  "begin": "",
+  "end": "",
+  "language_detect": "english",
+  "title_accent_fold": "I Feel Good",
+  "chords_metadata": {
+    "confidence": 0.8345498783454988,
+    "duration": 82.18229024943311,
+    "chordSequence": [
+      {
+        "start": 0,
+        "end": 19.05,
+        "label": "Fmaj"
+      },
+      {
+        "start": 19.05,
+        "end": 21.150000000000002,
+        "label": "Bbmaj"
+      },
+      {
+        "start": 21.150000000000002,
+        "end": 23.55,
+        "label": "Bbmin7"
+      },
+      {
+        "start": 23.55,
+        "end": 33.55,
+        "label": "Fmaj"
+      },
+      {
+        "start": 33.55,
+        "end": 35.949999999999996,
+        "label": "Fmin"
+      },
+      {
+        "start": 35.949999999999996,
+        "end": 38.75,
+        "label": "Bbmaj"
+      },
+      {
+        "start": 38.75,
+        "end": 40.55,
+        "label": "Bbmin7"
+      },
+      {
+        "start": 40.55,
+        "end": 44.05,
+        "label": "Fmaj"
+      },
+      {
+        "start": 44.05,
+        "end": 48.95,
+        "label": "Dbmaj"
+      },
+      {
+        "start": 48.95,
+        "end": 53.15,
+        "label": "Abmaj"
+      },
+      {
+        "start": 53.15,
+        "end": 57.25,
+        "label": "Gbmaj"
+      },
+      {
+        "start": 57.25,
+        "end": 60.75,
+        "label": "Fmaj"
+      },
+      {
+        "start": 60.75,
+        "end": 65.95,
+        "label": "Dbmaj"
+      },
+      {
+        "start": 65.95,
+        "end": 69.75000000000001,
+        "label": "Abmaj"
+      },
+      {
+        "start": 69.75000000000001,
+        "end": 74.05000000000001,
+        "label": "Gbmaj"
+      },
+      {
+        "start": 74.05000000000001,
+        "end": 82.10000000000002,
+        "label": "Fmaj"
+      }
+    ],
+    "_id": "deezer:13210337"
+  },
+  "arousal": "",
+  "arousal_predicted": "-0.24414891",
+  "album_genre": "Pop",
+  "has_emotion_tags": "True",
+  "has_social_tags": "True",
+  "lastfm_id": "TRKDTWC12903CDCD3F",
+  "valence": "",
+  "valence_predicted": "-0.010630563",
+  "matching_docs": {
+    "_id": {
+      "$oid": "6426c1fe5b88ec1be5f52db8"
+    },
+    "LastFmId": "TRKDTWC12903CDCD3F",
+    "Tag": "exciting",
+    "Valence": 0.95,
+    "Arousal": 0.792,
+    "Dominance": 0.789,
+    "Q_tag": "Q1",
+    "Q_song": "Q1"
+  }
+}
