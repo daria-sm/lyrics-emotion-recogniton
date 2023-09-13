@@ -4,7 +4,7 @@ import pandas as pd
 from evaluation.metrics import print_pandas_accuracy
 from preprocessing.extract_lyrics_words import beautify
 
-openai.api_key = "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"  # Replace with your actual API key
+openai.api_key = "api-key"  # Replace with your actual API key
 
 prompt = "We divide the Russel's' circumflex model in Q1 positive valence and positive arousal Q2 negative valence positive arousal Q3 negative valence and negative arousal Q4 positive valence negative arousal"
 
